@@ -1,1 +1,3 @@
 # Calculator
+
+Javascript basic Calculator
